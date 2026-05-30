@@ -1,0 +1,4 @@
+-keep class com.phoneassistant.data.model.** { *; }
+-keep class com.phoneassistant.data.api.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
